@@ -1,0 +1,11 @@
+#slide_banner.scroll-img { width: 950px; height: 115px; margin:auto; overflow: hidden; font-size: 0;}
+#slide_banner.scroll-img ul { width: 700px; height:auto; margin: 0;}
+#slide_banner.scroll-img ul li { display: inline-block; margin: 10px 9px; z-index:999; position:relative;}
+#slide_banner.scroll-img ul li img{ width:222px; height:100px;}
+#slide_banner.scroll-img ul { width: 1500px;}
+#slide_banner-btn { position:absolute; width:960px; margin-top:-80px; z-index:0;}
+#slide_banner-btn span{ cursor:pointer; font-size:50px; opacity:0.6;}
+#slide_banner-btn span:hover{ opacity:1;}
+#slide_banner-forward span{float: right; margin-top: -58px; margin-right: -45px;}
+#slide_banner-backward span{ margin-left:-35px;}
+
